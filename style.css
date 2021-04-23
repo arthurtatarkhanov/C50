@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+.header{
+    background-color:wheat;
+    display:flex;
+    justify-content:space-between;  
+}
+.menu{
+    background-color:orange;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+p,h2{
+    text-align: center;
+}
